@@ -1,103 +1,76 @@
-<!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm <span style="color:#4fa3ff;">Edi Suherlan</span></h1>
-<h3 align="center">Frontend Developer • Mobile Dev • Tech Educator</h3>
+<!-- ====== HEADER BANNER ====== -->
+<p align="center">
+  <img src="https://github.com/edisuherlan/assets/raw/main/banner-github.png" alt="Edi Suherlan Banner" width="100%" />
+</p>
+
+<h1 align="center">👋 Hi, I'm <span style="color:#4fa3ff;">Edi Suherlan</span></h1>
+<h3 align="center">Frontend Developer • Mobile Developer • Tech Educator</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edisuherlan&label=Visitors&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=edisuherlan&label=Visitors&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 **About Me**
+Saya seorang **Frontend Developer**, **React Native Developer**, dan **Dosen Informatika & Kesehatan Masyarakat** yang fokus pada pengembangan aplikasi modern untuk edukasi, kesehatan, dan produktivitas.
 
-Saya adalah seorang **Frontend Developer**, **Mobile Developer**, dan **Dosen Informatika & Kesehatan** yang suka membangun aplikasi modern, responsive, dan sederhana untuk digunakan.  
-Saya aktif mengembangkan **web apps**, **mobile apps (Expo/React Native)**, dan berbagai proyek untuk edukasi.
-
-✨ Fokus saat ini:  
-- Mobile Development dengan **Expo & React Native**  
-- Web modern dengan **React + Laravel API**  
-- EdTech, HealthTech, AR, dan AI Integration  
+🔹 Membuat aplikasi dengan **React, Laravel, Node.js, dan Expo**  
+🔹 Suka membuat game mobile sederhana untuk pembelajaran  
+🔹 Peneliti: **AR, Gamifikasi, HealthTech, EdTech**  
+🔹 Content creator: coding, tech tutorial, dan AI tools  
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://twitter.com/edisuherlan" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/edisuherlan" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://fb.com/edisuherlan" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/edisuherlan_" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/c/edisuherlan" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <!-- Web -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" />
-
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" />
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-
-  <!-- Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
-
-  <!-- Tools -->
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
+# 🌐 **Connect With Me**
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=edisuherlan&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisuherlan&layout=compact&theme=tokyonight" />
+<a href="https://twitter.com/edisuherlan"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
+<a href="https://linkedin.com/in/edisuherlan"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+<a href="https://instagram.com/edisuherlan_"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
+<a href="https://youtube.com/c/edisuherlan"><img src="https://skillicons.dev/icons?i=youtube" width="45" /></a>
 </p>
 
 ---
 
-## 🏆 Achievements
-
+# 🛠️ **Tech Stack**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edisuherlan&theme=dracula&margin-w=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,laravel,nodejs,php,python,figma,postman,mysql,mongodb,postgres,git" />
 </p>
 
 ---
 
-## 🎮 Fun Facts
-
-- Lagi suka ngebuat **game kecil** pakai Expo + React Native  
-- Sering eksperimen dengan **AI, AR, dan gamifikasi**  
-- Ngoding paling fokus kalau ditemani kopi ☕
+# 🎯 **What I Do**
+✔ Membangun aplikasi mobile dengan **Expo / React Native**  
+✔ Pengembangan website cepat dan modern dengan **React / Laravel**  
+✔ Membuat sistem PWA untuk kebutuhan kampus & organisasi  
+✔ Penelitian & pengembangan media promosi kesehatan berbasis **AR + Gamification**  
+✔ Membuat konten pembelajaran untuk mahasiswa & publik  
 
 ---
 
-### ⭐ If you like my projects, don't forget to star the repo!
+# 📊 **GitHub Analytics**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edisuherlan&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisuherlan&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+# 🏆 **Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=edisuherlan&theme=discord&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+# 🎮 **Fun Facts**
+- Sedang ngembangin mini-game seperti **Flappy Bird / Snake** pakai Expo  
+- Punya ketertarikan tinggi di **AI prompting & visual generation**  
+- Ngoding paling fokus saat ditemani **kopi hitam** ☕  
+- Suka bikin UI clean dan simple supaya enak dipakai  
+
+---
+
+# ⭐ **Support My Projects**
+Jika suka project saya, bantu ⭐ repo-nya ya!  
+Your support keeps me motivated ✨
