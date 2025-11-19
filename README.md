@@ -13,11 +13,11 @@
 ---
 
 # 🚀 **About Me**
-Saya seorang **Frontend Developer**, **React Native Developer**, dan **Dosen Informatika & Kesehatan Masyarakat** yang fokus pada pengembangan aplikasi modern untuk edukasi, kesehatan, dan produktivitas.
+Saya seorang **Web Programmer**. **Frontend Developer**, **React Native Developer**, dan **Dosen Informatika** yang fokus pada pengembangan aplikasi modern untuk komersial, edukasi, kesehatan, dan produktivitas.
 
-🔹 Membuat aplikasi dengan **React, Laravel, Node.js, dan Expo**  
+🔹 Membuat aplikasi dengan **PHP Native, Laravel, Codeigniter, React Native/Expo,  Node.js, dan Python**  
 🔹 Suka membuat game mobile sederhana untuk pembelajaran  
-🔹 Peneliti: **AR, Gamifikasi, HealthTech, EdTech**  
+🔹 Peneliti: **AI, AR, Gamifikasi, HealthTech, EdTech**  
 🔹 Content creator: coding, tech tutorial, dan AI tools  
 
 ---
