@@ -1,6 +1,6 @@
 <!-- ====== HEADER BANNER ====== -->
 <p align="center">
-  <img src="[https://github.com/edisuherlan/assets/raw/main/banner-github.png](https://raw.githubusercontent.com/edisuherlan/edisuherlan/main/banner_EdiSuherlan.png)" alt="Edi Suherlan Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/edisuherlan/edisuherlan/main/banner_EdiSuherlan.png" alt="Edi Suherlan Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4fa3ff;">Edi Suherlan</span></h1>
